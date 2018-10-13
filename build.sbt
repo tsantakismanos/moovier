@@ -1,4 +1,4 @@
-name := "akkademy-db"
+name := "moovier"
 
 version := "1.0"
 
